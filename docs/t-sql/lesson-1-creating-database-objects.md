@@ -41,7 +41,7 @@ Der Code wird in der [!INCLUDE[ssDE](../includes/ssde-md.md)] immer auf gleiche 
   
 Damit Sie [!INCLUDE[tsql](../includes/tsql-md.md)] -Anweisungen in [!INCLUDE[ssManStudio](../includes/ssmanstudio-md.md)]ausführen können, öffnen Sie [!INCLUDE[ssManStudio](../includes/ssmanstudio-md.md)] und stellen eine Verbindung mit einer Instanz von [!INCLUDE[ssDEnoversion](../includes/ssdenoversion-md.md)]her.  
   
-Diese Lektion enthält die folgenden Themen:  
+Diese Lektion enthält folgende Themen:  
   
 -   [Erstellen einer Datenbank &#40;Tutorial&#41;](../t-sql/lesson-1-1-creating-a-database.md)  
   
